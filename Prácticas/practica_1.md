@@ -1,34 +1,35 @@
-
-## Práctica 1
-
-### Sincronización de hebras con semáforos
-------
+###Práctica 1: Sincronización de hebras con semáforos
+-----
 
 **Objetivos:** realizar dos implementaciones de dos problemas sencillos de sincronización.
--- **Problema: Productor Consumidor**
--- **Problema: Fumadores**
-[Descripción de los problemas][descripcion]
+
+1. **Problema: Productor Consumidor**
+2. **Problema: Fumadores**
+- [Descripción de los problemas][descripcion]
 
 ### Problema del productor-consumidor
 
-[***Solucion 1:***][LIFO] Pila Acotada(LIFO)
-[***Solución 2:***][FIFO] Cola Circular(FIFO)
+- [***Solucion 1:***][LIFO] Pila Acotada(LIFO)
+- [***Solución 2:***][FIFO] Cola Circular(FIFO)
 
 ### Problema de los Fumadores
 
-[***Solucion 1:***][ampliada] Una función por cada fumador.
-[***Solución 2:***][reducida] simplificación de código.
+- [***Solucion 1:***][ampliada] Una función por cada fumador.
+- [***Solución 2:***][reducida] simplificación de código.
 ### Problema extra
 
 <img src="problema.JPG" alt="Logotipo" width="70%" height="70%">
-[***Solución:***][suma] Suma de los elementos pares e impares.
+
+- [***Solución:***][suma] Suma de los elementos pares e impares.
 
 
 
 ### Evaluación
-[***Ejercicio 1:***][] Suma de los elementos pares e impares.
-**problema***
--- Nota: este problema es similar al problema extra pero con la modificacion en el P0, primero rellena los datos del vector y luego despierta a P1 y a P2 y espera a que terminen para realizar la suma total con los resultados obtenidos (total = par + impar;)
+- [***Ejercicio 1:***][] Suma de los elementos pares e impares.
+
+```sh
+ Nota: este problema es similar al problema extra pero con la modificacion en el P0, primero rellena los datos del vector y luego despierta a P1 y a P2 y espera a que terminen para realizar la suma total con los resultados obtenidos (total = par + impar;).
+```
 [P0]
 rellenar datos;
 despierta P1;
@@ -48,17 +49,17 @@ suma los elemntos impares
 escribe el resultado;
 
 
-[***Ejercicio 2:***][] modificación Productor consumidor
+- [***Ejercicio 2:***][] modificación Productor consumidor
 
-***Problema***
-generar datos entre;
+**Problema**
+- generar datos entre;
 
-crear 2 hebras consumidoras 
--- 1 hebra consume datos pares
--- 2 hebra consume datos impares
-
-tener en cuenta la finalización ya que no se sabe cuantos elemetos pares e impares se va ha generar el productor
-
+- crear 2 hebras consumidoras 
+ - 1 hebra consume datos pares
+ - 2 hebra consume datos impares
+```sh
+Tener en cuenta la finalización ya que no se sabe cuantos elemetos pares e impares va ha generar el productor.
+```
 
 
 [descripcion]:https://github.com/marlenelis/SCD/blob/master/Prácticas/scd-practica1.pdf

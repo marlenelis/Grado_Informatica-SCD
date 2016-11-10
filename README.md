@@ -27,7 +27,7 @@ ________________
 
 
 [//]:#(Prácticas)
-[1P]:https://github.com/marlenelis/SCD/blob/master/Prácticas/practica1.md
+[1P]:https://github.com/marlenelis/SCD/blob/master/Prácticas/practica_1.md
 [2P]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [3P]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [//]:#(Seminarios)
