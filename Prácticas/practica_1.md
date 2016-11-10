@@ -16,6 +16,8 @@
 
 - [***Solucion 1:***][ampliada] Una función por cada fumador.
 - [***Solución 2:***][reducida] simplificación de código.
+
+
 ### Problema extra
 
 <img src="problema.JPG" alt="Logotipo" width="70%" height="70%">
@@ -73,4 +75,4 @@ Tener en cuenta la finalización ya que no se sabe cuantos elemetos pares e impa
 [reducida]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/fumadoresReducida.cpp
 
 
-[problema]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/suma_vector.cpp
+[problema]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/suma_vector.cp
