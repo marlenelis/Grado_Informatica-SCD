@@ -31,6 +31,6 @@ ________________
 [2P]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [3P]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [//]:#(Seminarios)
-[1S]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[1S]:https://github.com/marlenelis/SCD/blob/master/seminarios/seminario.md
 [2S]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [3S]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
