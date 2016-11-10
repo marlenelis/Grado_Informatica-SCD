@@ -27,7 +27,7 @@
 
 
 ### Evaluación
-- [***Ejercicio 1:***][] Suma de los elementos pares e impares.
+- [***Ejercicio 1:***][ex1] Suma de los elementos pares e impares.
 
 ```sh
  Nota: este problema es similar al problema extra pero con la modificacion en el P0, primero rellena los datos del vector y luego despierta a P1 y a P2 y espera a que terminen para realizar la suma total con los resultados obtenidos (total = par + impar;).
@@ -51,7 +51,7 @@ suma los elemntos impares
 escribe el resultado;
 
 
-- [***Ejercicio 2:***][] modificación Productor consumidor
+- [***Ejercicio 2:***][ex2] modificación Productor consumidor
 
 **Problema**
 - generar datos entre;
@@ -75,4 +75,8 @@ Tener en cuenta la finalización ya que no se sabe cuantos elemetos pares e impa
 [reducida]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/fumadoresReducida.cpp
 
 
-[problema]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/suma_vector.cp
+[suma]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/suma_vector.cpp
+[ex1]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/ex-suma_vector.cpp
+[ex2]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/ex-prod-cons.cpp
+
+
