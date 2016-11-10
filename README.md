@@ -10,9 +10,9 @@
 
 ## Temario de prácticas: 
 
-- [**Práctica 1.**][1P] Sincronización de hebras con semáforos. 
+- [**Práctica 1.**][1P] Sincronización de hebras con semáforos.
 - [**Práctica 2.**][2P] Programación de monitores con hebras java.
-- [**Práctica 3.**][] Implementación de algoritmos distribuidos con MPI.
+- [**Práctica 3.**][3P] Implementación de algoritmos distribuidos con MPI.
 
 ## Seminarios
 
@@ -30,7 +30,6 @@ ________________
 [1P]:
 [2P]:
 [3P]:
-[4P]:
 
 [1S]:
 [2S]:
