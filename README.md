@@ -27,10 +27,10 @@ ________________
 
 
 [//]:#(Prácticas)
-[1P]:
-[2P]:
-[3P]:
-
-[1S]:
-[2S]:
-[3S]:
+[1P]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[2P]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[3P]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[//]:#(Seminarios)
+[1S]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[2S]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[3S]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
