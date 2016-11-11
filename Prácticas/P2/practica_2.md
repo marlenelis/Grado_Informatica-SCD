@@ -12,19 +12,12 @@
 
 [Descripción de los problemas][descripcion]
 
-### Problema del productor-consumidor
 
-- [***Solucion 1:***][Prod] Pila Acotada(LIFO)
+###Solucion
 
-### Problema de los Fumadores
-
-- [***Solucion 1:***][fumadores] Una función por cada fumador.
-
-### Problema del Barbero Durmiente
-
-[//]:<img src="problema.JPG" alt="Logotipo" width="70%" height="70%">
-
-[***Solución:***][barbero] Suma de los elementos pares e impares.
+-[**Problema del productor-consumidor**][Prod]
+-[**Problema de los Fumadores**][fumadores]
+-[**Problema del Barbero Durmiente**][barbero] .
 
 
 ----
