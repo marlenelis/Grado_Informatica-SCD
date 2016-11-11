@@ -60,7 +60,7 @@ escribe el resultado;
  - 1 hebra consume datos pares
  - 2 hebra consume datos impares
 ```sh
-Tener en cuenta la finalización ya que no se sabe cuantos elemetos pares e impares va ha generar el productor.
+Tener en cuenta la finalización ya que no se sabe cuantos elementos pares e impares va ha generar el productor.
 ```
 
 
