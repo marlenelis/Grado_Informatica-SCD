@@ -54,7 +54,7 @@ escribe el resultado;
 - [***Ejercicio 2:***][ex2] modificación Productor consumidor
 
 **Problema**
-- generar datos entre;
+- producir datos entre 10 y 30;
 
 - crear 2 hebras consumidoras 
  - 1 hebra consume datos pares
@@ -68,15 +68,15 @@ Tener en cuenta la finalización ya que no se sabe cuantos elemetos pares e impa
 
 
 
-[LIFO]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/prod-cons_LIFO.cpp
-[FIFO]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/prod-cons_FIFO.cpp
+[LIFO]:https://github.com/marlenelis/SCD/blob/master/Prácticas/P1/src/prod-cons_LIFO.cpp
+[FIFO]:https://github.com/marlenelis/SCD/blob/master/Prácticas/P1/src/prod-cons_FIFO.cpp
 
-[ampliada]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/fumadores.cpp
-[reducida]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/fumadoresReducida.cpp
+[ampliada]:https://github.com/marlenelis/SCD/blob/master/Prácticas/P1/src/fumadores.cpp
+[reducida]:https://github.com/marlenelis/SCD/blob/master/Prácticas/P1/src/fumadoresReducida.cpp
 
 
-[suma]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/suma_vector.cpp
-[ex1]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/ex-suma_vector.cpp
-[ex2]:https://github.com/marlenelis/SCD/blob/master/Prácticas/src/ex-prod-cons.cpp
+[suma]:https://github.com/marlenelis/SCD/blob/master/Prácticas/P1/src/suma_vector.cpp
+[ex1]:https://github.com/marlenelis/SCD/blob/master/Prácticas/P1/src/ex-suma_vector.cpp
+[ex2]:https://github.com/marlenelis/SCD/blob/master/Prácticas/P1/src/ex-prod-cons.cpp
 
 
