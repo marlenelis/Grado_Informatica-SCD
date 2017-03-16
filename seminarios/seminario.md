@@ -5,5 +5,5 @@
 
 Ejercicio: Cálculo de PI
 
-[***PI***][PI]
-[PI]:https://github.com/marlenelis/SCD/blob/master/seminarios/calculopi.cpp
+[**PI**][PI]
+[PI]: https://github.com/marlenelis/SCD/blob/master/seminarios/calculopi.cpp
