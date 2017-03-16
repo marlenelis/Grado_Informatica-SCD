@@ -1,4 +1,4 @@
-###Práctica 1: Sincronización de hebras con semáforos
+### Práctica 1: Sincronización de hebras con semáforos
 -----
 
 **Objetivos:** realizar dos implementaciones de dos problemas sencillos de sincronización.
@@ -9,13 +9,13 @@
 
 ### Problema del productor-consumidor
 
-- [***Solucion 1:***][LIFO] Pila Acotada(LIFO)
-- [***Solución 2:***][FIFO] Cola Circular(FIFO)
+- [**Solucion 1:**][LIFO] Pila Acotada(LIFO)
+- [**Solución 2:**][FIFO] Cola Circular(FIFO)
 
 ### Problema de los Fumadores
 
-- [***Solucion 1:***][ampliada] Una función por cada fumador.
-- [***Solución 2:***][reducida] simplificación de código.
+- [**Solucion 1:**][ampliada] Una función por cada fumador.
+- [**Solución 2:**][reducida] simplificación de código.
 
 
 ### Problema extra
@@ -51,7 +51,7 @@ suma los elemntos impares
 escribe el resultado;
 
 
-- [***Ejercicio 2:***][ex2] modificación Productor consumidor
+- [**Ejercicio 2:**][ex2] modificación Productor consumidor
 
 **Problema**
 - producir datos entre 10 y 30;
