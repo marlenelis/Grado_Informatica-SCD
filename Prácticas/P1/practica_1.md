@@ -22,15 +22,17 @@
 
 <img src="problema.JPG" alt="Logotipo" width="70%" height="70%">
 
-- [***Solución:***][suma] Suma de los elementos pares e impares.
+- [**Solución:**][suma] Suma de los elementos pares e impares.
 
 
 
 ### Evaluación
-- [***Ejercicio 1:***][ex1] Suma de los elementos pares e impares.
+- [**Ejercicio 1:**][ex1] Suma de los elementos pares e impares.
 
 ```sh
- Nota: este problema es similar al problema extra pero con la modificacion en el P0, primero rellena los datos del vector y luego despierta a P1 y a P2 y espera a que terminen para realizar la suma total con los resultados obtenidos (total = par + impar;).
+ Nota: este problema es similar al problema extra pero con la modificacion en el P0, 
+ primero rellena los datos del vector y luego despierta a P1 y a P2 y espera a que 
+ terminen para realizar la suma total con los resultados obtenidos (total = par + impar;).
 ```
 [P0]
 rellenar datos;
