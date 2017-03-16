@@ -1,4 +1,4 @@
-###Práctica 2: Programación de Monitores con Hebras Java
+### Práctica 2: Programación de Monitores con Hebras Java
 -----
 
 **Objetivos:** 
@@ -13,7 +13,7 @@
 [Descripción de los problemas][descripcion]
 
 
-###Solucion
+### Solucion
 
 -[**Problema del productor-consumidor**][Prod]
 
@@ -22,7 +22,7 @@
 -[**Problema del Barbero Durmiente**][barbero]
 
 
-----
+[//]:----
 
 [descripcion]:https://github.com/marlenelis/SCD/blob/master/Prácticas/P2/scd-practica2.pdf
 
