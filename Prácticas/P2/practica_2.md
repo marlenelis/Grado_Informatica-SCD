@@ -14,11 +14,11 @@
 
 ## Solución
 
--[**Problema del productor-consumidor**][Prod]
+- [**Problema del productor-consumidor**][Prod]
 
--[**Problema de los Fumadores**][fumadores]
+- [**Problema de los Fumadores**][fumadores]
 
--[**Problema del Barbero Durmiente**][barbero]
+- [**Problema del Barbero Durmiente**][barbero]
 
 
 
