@@ -1,0 +1,2 @@
+//export PATH=/usr/local/jdk1.8.0_101/bin   // 16
+//export PATH=/usr/local/jdk1.8.0_31/bin   //  14
