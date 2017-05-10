@@ -1,5 +1,4 @@
 ## Práctica 2: Programación de Monitores con Hebras Java
------
 
 **Objetivos:** 
 - Conocer cómo contruir monitores Java, tanto ussando la API para amnejo de hebras Java, como usando un conjunto de clases(el paquete **monitor**) que permite programar monitores siguiendo la misma semántica de los monitores ***Hoare***.
@@ -13,7 +12,7 @@
 [Descripción de los problemas][descripcion]
 
 
-## Solucion
+## Solución
 
 -[**Problema del productor-consumidor**][Prod]
 
